@@ -1,6 +1,6 @@
 <?php
 	echo 'test.php';
 
-	echo 'benoit';
+	echo 'benoit 2';
 
 ?>
