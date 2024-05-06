@@ -4,4 +4,5 @@
 	echo 'benoit 2';
 
 	echo 'master';
+	echo 'toto';
 ?>
