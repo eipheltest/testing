@@ -6,4 +6,6 @@
 	echo 'master';
 	echo 'toto';
 	echo 'master2';
+
+	echo rand(0, 100);
 ?>
