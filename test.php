@@ -5,4 +5,5 @@
 
 	echo 'yes';
 
+	echo 'toto';
 ?>
