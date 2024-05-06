@@ -3,6 +3,5 @@
 
 	echo 'benoit 2';
 
-	echo 'yes';
-
+	echo 'master';
 ?>
