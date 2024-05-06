@@ -7,5 +7,6 @@
 	echo 'toto';
 	echo 'master2';
 
-	echo rand(0, 100);
+	echo rand(0, 100); // my coment
+
 ?>
