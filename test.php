@@ -9,4 +9,5 @@
 
 	echo rand(0, 100); // my coment
 
+	echo 'master3';
 ?>
